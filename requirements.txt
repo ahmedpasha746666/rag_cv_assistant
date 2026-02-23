@@ -1,0 +1,6 @@
+streamlit
+openai
+chromadb
+pydantic
+litellm
+python-dotenv
